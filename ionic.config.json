@@ -1,0 +1,8 @@
+{
+  "name": "Recicloneta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cdefce82"
+}
